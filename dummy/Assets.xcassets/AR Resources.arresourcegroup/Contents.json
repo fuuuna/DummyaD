@@ -1,0 +1,38 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "dummy_1.arreferenceimage"
+    },
+    {
+      "filename" : "dummy_2.arreferenceimage"
+    },
+    {
+      "filename" : "dummy_3.arreferenceimage"
+    },
+    {
+      "filename" : "dummy_4.arreferenceimage"
+    },
+    {
+      "filename" : "dummy_5.arreferenceimage"
+    },
+    {
+      "filename" : "dummy_6.arreferenceimage"
+    },
+    {
+      "filename" : "dummy_7.arreferenceimage"
+    },
+    {
+      "filename" : "dummy_8.arreferenceimage"
+    },
+    {
+      "filename" : "dummy_9.arreferenceimage"
+    },
+    {
+      "filename" : "dummy_10.arreferenceimage"
+    }
+  ]
+}
